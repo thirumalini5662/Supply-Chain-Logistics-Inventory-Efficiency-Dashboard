@@ -1,0 +1,41 @@
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Excel temporary files
+# =========================
+~$*.xlsx
+~$*.xls
+
+# =========================
+# Tableau files (optional cache/logs)
+# =========================
+*.log
+*.tde
+*.hyper_backup
+*.tbwx
+*.tbw.lock
+
+# =========================
+# Python (if used later)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Environment / system files
+# =========================
+.env
+.vscode/
+.idea/
+
+# =========================
+# Backup files
+# =========================
+*.bak
+*.tmp
